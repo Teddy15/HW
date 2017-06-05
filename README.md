@@ -1,3 +1,3 @@
 # HW
 Just a homework repo
-We resolved the conflict!
+I resolved the conflict!
