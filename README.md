@@ -1,3 +1,4 @@
 # HW
-Just a homework repo
-I resolved the conflict!
+This project will conatin ... 
+Repository made for homework.
+Hello, again!!!
